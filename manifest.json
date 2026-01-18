@@ -1,0 +1,21 @@
+{
+  "short_name": "Wizard Farme",
+  "name": "Wizard Farmers",
+  "description": "Wizard Farmers : œufs et poulets d'exception. Découvrez la magie du fermier avec nos produits frais et locaux. Une expérience gustative enchantée, de nos fermes à votre table. Qualité et tradition mystique. La magie de la fraîcheur livrée, directement chez vous.",
+  "start_url": "/?source=pwa",
+  "display": "standalone",
+  "background_color": "#2F4F4F",
+  "theme_color": "#3A6B35",
+  "icons": [
+    {
+      "src": "/assets/icons/icon-192x192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/icons/icon-512x512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}
