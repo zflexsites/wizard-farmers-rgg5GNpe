@@ -8,8 +8,8 @@ const OFFLINE_URL = "offline.html";
 // Les assets critiques pour que l'app fonctionne hors ligne.
 const CORE_ASSETS = [
   OFFLINE_URL,
-  "/assets/app-2o-VZiP-.css",
-  "/assets/app-r7KRJPgF.js",
+  "/assets/app-C9zx4mvT.css",
+  "/assets/app-f1dcgy7c.js",
   "/manifest.json", // Essentiel pour l'expérience PWA
   // On pourrait ajouter ici le logo principal ou des icônes critiques.
 ];
