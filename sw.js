@@ -9,7 +9,7 @@ const OFFLINE_URL = "offline.html";
 const CORE_ASSETS = [
   OFFLINE_URL,
   "/assets/app-C9zx4mvT.css",
-  "/assets/app-f1dcgy7c.js",
+  "/assets/app-BY73wLkG.js",
   "/manifest.json", // Essentiel pour l'expérience PWA
   // On pourrait ajouter ici le logo principal ou des icônes critiques.
 ];
